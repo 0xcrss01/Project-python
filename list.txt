@@ -1,6 +1,0 @@
-A.) List projek yang dikerjakan 
-     1.menghitung luas persegi 
-     2.order List
-     3.pattren
-     4.input variable string sederhana (str)
-     5.kalkulator
